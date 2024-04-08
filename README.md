@@ -1,2 +1,2 @@
 # empty
-this is empty
+this is an empty repo
