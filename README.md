@@ -2,4 +2,4 @@
 this appears to be an empty repo
 
 ## notes
-- [something extra](/notes/extra) 
+- [something extra](/docs/extra) 
